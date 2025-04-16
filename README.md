@@ -8,8 +8,8 @@ Welcome to the mood ring of your repo — a sacred legend to decode the colored 
 | Dot | Mood | Meaning |
 |-----|------|---------|
 | 🟢 Green | **"At peace"** | All checks passed. Universe aligned. Keep building. ✅ |
-| 🟡 Yellow | **"In limbo"** | Something’s still running. Let it brew. Let it rise. ⏳ |
-| 🔴 Red | **"Chaos in the temple"** | Something broke. But that’s just fuel for your throne. 🔥 |
+| 🟡 Yellow | **"In limbo"** | Something’s still running. ⏳ |
+| 🔴 Red | **"Chaos in the temple"** | Something broke.  🔥 |
 | 🔵 Blue | **"Unread whispers"** | There’s something new waiting for you. A nudge from the code spirits. 📩 |
 | ⚫️ Gray | **"The void is silent"** | No checks, no errors. It neither speaks nor judges. 💤 |
 
