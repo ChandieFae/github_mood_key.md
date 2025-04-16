@@ -26,3 +26,6 @@ Welcome to the mood ring of your repo — a sacred legend to decode the colored 
 Use this key. Own your flow.
 Make your GitHub repo not just a project — but a world with *vibes.*
 
+[🪄 View the GitHub Mood Key](https://github.com/ChandieFae/github_mood_key.md/blob/main/github_mood_key.md)
+Drop it anywhere in your README to guide others through the colored-dot vibes
+
